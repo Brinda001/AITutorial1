@@ -22,9 +22,13 @@ AI Perspectives:
 There are two perspectives in AI:
 
 Acting and thinking humanly: This perspective aims to create machines that can simulate human intelligence by mimicking the way humans think, learn, and solve problems.
+
 Acting and thinking rationally: This perspective aims to create machines that can reason logically and make decisions based on rational thinking rather than human-like thinking.
+
 History of AI:
 The history of AI can be traced back to ancient Greece, where philosophers and mathematicians explored the idea of creating machines that could reason like humans. The modern era of AI began in the 1950s, with the development of computer systems that could simulate human intelligence. Since then, AI has evolved rapidly, with advances in machine learning, natural language processing, robotics, and other related fields.
+The history of AI can be traced back to ancient Greece, where philosophers and mathematicians explored the idea of creating machines that could reason like humans. However, it was not until the 1950s that the modern era of AI began, with the development of computer systems that could simulate human intelligence. In 1956, the Dartmouth Conference, organized by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon, marked the birth of AI as a field of study. During the 1960s and 1970s, AI research flourished, with the development of symbolic reasoning, natural language processing, and expert systems. However, progress was slow, and by the 1980s, AI research had hit a "winter" due to technical limitations and funding cuts. In the 1990s, a new wave of AI research emerged with the development of machine learning algorithms, which enabled machines to learn from data without being explicitly programmed. Since then, AI has rapidly evolved, with advances in deep learning, natural language processing, robotics, and other related fields, and is now widely used in various industries.
+
 
 Foundations of AI:
 AI is built on several foundational disciplines, including:
