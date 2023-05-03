@@ -34,10 +34,15 @@ Foundations of AI:
 AI is built on several foundational disciplines, including:
 
 Philosophy: which provides the theoretical framework for understanding intelligence, consciousness, and reasoning.
+
 Economics: which helps in developing decision-making algorithms that can optimize outcomes based on available resources.
+
 Psychology: which provides insights into human cognition and behavior, and how machines can be designed to mimic them.
+
 Sociology: which helps in understanding how machines can interact with humans and society.
+
 Linguistics: which helps in developing natural language processing algorithms that can understand and generate human language.
+
 Other important disciplines that contribute to AI include neuroscience, mathematics, computer science, and control theory.
 
 Applications of AI:
