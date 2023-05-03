@@ -49,6 +49,6 @@ Retail: AI can be used for product recommendations, inventory management, and cu
 
 Transportation: AI can be used for route optimization, traffic management, and autonomous vehicles.
 
-Entertainment: AI can be used for personalized content recommendations, game development, and virtual assistants.
+Entertainment: AI can be used for personalized content recommendations, game development, and virtual assistants. 
 
 
